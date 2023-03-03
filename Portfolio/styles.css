@@ -69,12 +69,14 @@ body {
   align-items: center;
   color: white;
 }
+
 .infoCard {
   flex: 0.4;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 .infoForm {
   display: flex;
   border: 2px solid #d9524a;
